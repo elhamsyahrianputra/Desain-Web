@@ -1,0 +1,139 @@
+/* Navbar */
+
+
+/* Jumbotron */
+.jumbotron {
+	background-image: url(image/bg.jpg);
+	background-size: cover;
+	height: 768px;
+	text-align: center;
+}
+
+.jumbotron .display-4 {
+	margin-top: 120px;
+}
+
+.jumbotron hr {
+	border-color: black;
+	border-width: 1px;
+}
+/* Jumbotron Ends */
+
+
+/* Modal */
+.modal-body {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.modal-body hr {
+	margin: 30px 0px 15px 0px;
+}
+
+.sign-up {
+	color: blue;
+}
+/* Modal Ends */
+
+/* Sign Up */
+.card {
+	border-radius: 10px;
+}
+/* Sign UP Ends */
+
+/* Content */
+#content {
+	color: white;
+	padding-top: 200px;
+	color: white;
+}
+
+#content h4 {
+	text-align: justify;
+	margin-bottom: 50px;
+}
+
+#content .view-all {
+	float: right;
+	color: white;
+}
+
+#content #sub-content {
+	padding-bottom: 300px;
+}
+
+.title-gallery-feed {
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.gallery-feed {
+	padding-bottom: 250px;
+}
+
+.gallery-feed img{
+	margin-bottom: 40px;
+	width: 100%;
+}
+
+.gallery-feed img:hover {
+	transition: 0.5s;
+	transform: scale(1.1);
+}
+/* Content Ends */
+
+
+/* Footer */
+
+footer {
+  background: linear-gradient(#FFFFFF, #B0B0B0);  
+  padding: 4em 0em;
+}
+
+footer .footer-about p {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+footer .footer-title {
+  font-weight: bold;
+  margin-bottom: 2em;
+  color: black;
+  font-size: 20px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0px;
+}
+
+footer ul li {
+  margin-bottom: 15px;
+}
+
+footer ul li a {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+footer ul li a:hover {
+  color: black;
+}
+
+.footer-signup-p {
+	color: black;
+	font-size: 32px;
+}
+
+.footer-signup-a {
+	font-size: 25px;
+
+}
+
+.footer-signup-a:hover{
+	color : black;
+	font-size: 25px;
+}
+
+
+/* Footer Ends */
